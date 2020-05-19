@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Courtney Giebink</title>
+    <link>https://clgiebink.github.io/project/</link>
+      <atom:link href="https://clgiebink.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://clgiebink.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Climate-sensitive stand-level growth and yield models</title>
+      <link>https://clgiebink.github.io/project/ms-fvs/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://clgiebink.github.io/project/ms-fvs/</guid>
+      <description>&lt;p&gt;Globally, forests remove about a third of anthropogenic carbon emissions from the atmosphere (Le Quéré et al. 2015). However, projections of future forest uptake of carbon dioxide are uncertain in the face of changing climate (Friedlingstein et al. 2014). Forestry growth and yield models, such as the Forest Vegetation Simulator (FVS), have been used to better understand forests&amp;rsquo; response to changing climate. The widely used FVS inputs tree and plot data and simulates growth, mortality, and response to treatments for forest stands to inform management decisions. Although a recent version of FVS modifies forest development based on a species’ estimated climatic niche, the current version of FVS lacks the direct effect of climate variation on diameter growth. I am using the climate response recorded in tree-rings, combined with monitoring data from the U. S. Forest Service’s Forest Inventory and Analysis (FIA) Program, to parameterize the tree growth models for several tree species in the Utah variant of FVS. In doing so, I am developing a method for incorporating tree-rings into FVS, with the Utah variant as a testing ground. While tree rings have long been a tool that foresters use to assess tree growth, the climate fingerprint recorded in tree rings has never been incorporated into stand-level growth and yield models. Ring width fluctuates with year-to-year variation in the climate and site conditions during the growing season. Combining tree rings and forest inventory data allows me to parse the multiple drivers of tree growth and forest stand development, such as climate, competition, and site characteristics. We expect the inclusion of climate in the diameter growth models will provide more accurate projections of carbon uptake, allowing foresters to anticipate stand vulnerability to climate change and adaptively manage to increase stand resilience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Community responses to simulated climate change</title>
+      <link>https://clgiebink.github.io/project/bs-thomsen/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://clgiebink.github.io/project/bs-thomsen/</guid>
+      <description>&lt;p&gt;In order to understand ecological response to climate change, it is important not only to understand species’ responses to changing temperature, precipitation, etc., but also responses to changes in species interactions. Suttle, Thomsen and Power (2007) investigated these two effects in a California prairie system, where plots were exposed to water treatments based on multiple climate change projections for five years. They demonstrated the strong influence of species interactions on community-level response to changing climate. One watering treatment favored nitrogen-fixing forbs in the first year, which facilitated the annual grasses to outcompete other plant functional groups in subsequent years. Feedbacks and species interactions reversed initial species-level responses to changing climate. To disentangle the effect of nitrogen-fixing forbs, the watering treatments were continued for another five years with the addition of randomized removal of nitrogen-fixing forbs on plots. In collaboration with 
+&lt;a href=&#34;http://websites.uwlax.edu/mthomsen/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Meredith Thomsen&lt;/a&gt;, I statistically analyzed the data to determine how precipitation and nitrogen availability affect the biomass of several plant functional groups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecosystem services assessment of University of Cape Town forest</title>
+      <link>https://clgiebink.github.io/project/ct-gillson/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://clgiebink.github.io/project/ct-gillson/</guid>
+      <description>&lt;p&gt;Cape Town, South Africa is home to the fynbos biome, which has high plant diversity as well as high endemicity. Invasive species, which can competitively exclude native plant species, threaten fynbos biodiversity and the ecosystem services it provides. On the University of Cape Town (UCT) campus, non-native pines were introduced and naturalized and now cover the entire UCT forest and dam area, which historically was fynbos vegetation. The 15.6 hectare area on the slopes of Devil’s Peak includes a reservoir, which collects runoff to be used primarily for UTC sports fields. I assessed the cultural, regulating, provisioning, and supporting services of the UCT forest, taking into consideration student, faculty and staff opinions via a survey. Based on the results of the assessment, I proposed a management plan that involved a gradual shift from non-native pines to afrotemperate forest. Non-native trees would be replaced by planting shade-tolerant native trees in the understory. The native plants would continue to stabilize the soil and provide shade, yet they would have a greater water use efficiency and support more native animals. As non-native pines are removed, they could be used to make wood chips for hiking paths. The management plan would increase biodiversity and maximize ecosystem services of the UCT forest and dam area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temperature-driven outbreak of waterfowl disease</title>
+      <link>https://clgiebink.github.io/project/bs-sandland/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://clgiebink.github.io/project/bs-sandland/</guid>
+      <description>&lt;p&gt;An invasive snail, &lt;em&gt;Bithynia tentaculata&lt;/em&gt;, found in the Upper Mississippi River (UMR) poses a significant threat to native waterfowl, for it is a host to parasites (e.g. &lt;em&gt;Sphaeridiotrema pseudoglobulus&lt;/em&gt;), which have been associated with annual outbreak of waterfowl mortality. Snails hosting the parasite are consumed by waterfowl, where the parasite matures and develops eggs. Eggs are released in waterfowl waste and further infect snails (Sandland et al. 2014). Peirce, Sandland, Bennie, and Haro (2016) created a disease model to project annual outbreaks that are dependent on water temperature. While it was able to model the effect of temperature on transmission between snails and birds, temperature thresholds for parasite transmission were still unknown and therefore not included. In collaboration with Dr. Gregory Sandland, I collected data on the effect of temperature on parasite production, monitored snail lab conditions, and collected snails from the UMR. Snails with and without parasite exposure were put in an environmental chamber simulating seasonal temperature change - fall, winter, spring, summer. With each temperature change, parasite abundance was recorded. The results showed the seasonal start and end of parasite production and a peak in production in spring. The information gained can be used to inform the annual model of waterfowl disease as well as identify stages in the parasite life cycle that are most important for management.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

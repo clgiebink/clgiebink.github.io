@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current | Courtney Giebink</title>
+    <link>https://clgiebink.github.io/tags/current/</link>
+      <atom:link href="https://clgiebink.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Current</title>
+      <link>https://clgiebink.github.io/tags/current/</link>
+    </image>
+    
+    <item>
+      <title>Climate-sensitive stand-level growth and yield models</title>
+      <link>https://clgiebink.github.io/project/ms-fvs/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://clgiebink.github.io/project/ms-fvs/</guid>
+      <description>&lt;p&gt;Globally, forests remove about a third of anthropogenic carbon emissions from the atmosphere (Le Quéré et al. 2015). However, projections of future forest uptake of carbon dioxide are uncertain in the face of changing climate (Friedlingstein et al. 2014). Forestry growth and yield models, such as the Forest Vegetation Simulator (FVS), have been used to better understand forests&amp;rsquo; response to changing climate. The widely used FVS inputs tree and plot data and simulates growth, mortality, and response to treatments for forest stands to inform management decisions. Although a recent version of FVS modifies forest development based on a species’ estimated climatic niche, the current version of FVS lacks the direct effect of climate variation on diameter growth. I am using the climate response recorded in tree-rings, combined with monitoring data from the U. S. Forest Service’s Forest Inventory and Analysis (FIA) Program, to parameterize the tree growth models for several tree species in the Utah variant of FVS. In doing so, I am developing a method for incorporating tree-rings into FVS, with the Utah variant as a testing ground. While tree rings have long been a tool that foresters use to assess tree growth, the climate fingerprint recorded in tree rings has never been incorporated into stand-level growth and yield models. Ring width fluctuates with year-to-year variation in the climate and site conditions during the growing season. Combining tree rings and forest inventory data allows me to parse the multiple drivers of tree growth and forest stand development, such as climate, competition, and site characteristics. We expect the inclusion of climate in the diameter growth models will provide more accurate projections of carbon uptake, allowing foresters to anticipate stand vulnerability to climate change and adaptively manage to increase stand resilience.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
